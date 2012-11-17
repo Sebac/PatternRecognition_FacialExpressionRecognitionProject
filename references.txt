@@ -1,0 +1,31 @@
+Hua Yan, Jiande Sun, Caiming Zhang : Low-Resolution Face Recognition with Variable Illumination Based on Differential Images, 2012 Eighth International Conference on Intelligent Information Hiding and Multimedia Signal Processing
+
+Bin Jiang, Ke-bin Jia, Qiang Wu:  A Novel Algorithm of Facial Expression Recogniiton Based on Discriminative Component Analysis, 2012 Eighth International Conference on Intelligent Information Hiding and Multimedia Signal Processing
+
+Maja Pantic, Leon J.M. Rothkrantz: Automatic Analysis of Facial Expressions: The State of the Art, IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE, VOL. 22, NO. 12, DECEMBER 2000
+
+Guodong Guo, Charles R. Dyer: Learning From Examples in the Small Sample Case: Face Expression Recognition, IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS—PART B: CYBERNETICS, VOL. 35, NO. 3, JUNE 2005
+
+Wei-feng LIU, Ji-li LU, Zeng-fu WANG, Hua-jun SONG: An Expression Space Model for Facial Expression Analysis, 2008 Congress on Image and Signal Processing
+
+WU Peng, LI Xiao-hua, ZHOU Ji-liu, LEI Gang :  Face Expression Recognition Based on Feature Fusion
+
+Zhiguo Niu, Xuehong Qiu :  Facial Expression Recognition based on weighted principal component analysis and support vector machines, 2010 3rd International Conference on Advanced Computer Theory and Engineering (ICACTE)
+
+CHEN Juanjuan, ZHAO Zheng , SUN Han, ZHANG Gang :  Facial Expression Recognition Based on PCA Reconstruction, The 5th International Conference on Computer Science & Education
+
+Luboš Omelina, Miloš Oravec: Efficient Face Expression Generation for Face Recognition, 53rd International Symposium ELMAR-2011
+
+Nazil Perveen, Shubhrata Gupta, and Kesari Verma:  Facial Expression Recognition Using Facial Characteristic Points and Gini Index, 2012 IEEE
+
+Simona Maria Banu, Gabriel Mihail Danciu, Razvan Gabriel Boboc, Horat¸iu Moga and Cristiana Balan: A Novel Approach for Face Expressions Recognition, Jubilee International Symposium on Intelligent Systems and Informatics
+
+Marian Stewart Bartlett, Gwen Littlewort, Mark Frank, Claudia Lainscsek:  Recognizing Facial Expression: Machine Learning and Application to Spontaneous Behavior,  Computer Vision and Pattern Recognition 2005
+
+Claude C. Chibelushi, Fabrice Bourel :  Facial Expression Recognition:  A Brief Tutorial Overview, 
+
+Vinay Bettadapura: Face Expression Recognition and Analysis: The State of the Art
+
+Daniel Gill and Yaniv Ninio: Learning Facial Expressions: From Alignment to Recognition, "Workshop on Faces in 'Real-Life' Images: Detection, Alignment, and Recognition, Marseille France (2008)"
+
+G.Sofia, Dr. M. Mohamed Sathik: Pattern Recognition System to Classify Student’s Emotion using Forehead Wrinkles
